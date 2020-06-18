@@ -1,7 +1,5 @@
 package test;
 
-import java.sql.SQLOutput;
-
 public class ArraysTest {
 
     public static void main (String[] args){
